@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,30,0,3,18,20&height=300&section=header&text=Hii%20there&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1,10,30,0,3,18,20&height=300&section=header&text=Hii%20there&fontSize=90)
 
 
 ## Hi there 👋
