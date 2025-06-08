@@ -49,7 +49,7 @@ fields_of_interest:
     "Learning Data Structures & Algorithms",
   ]
 
-currently_learning: ["React Three Fiber", "GSAP", "Tailwind CSS", "Java", "PostgreSQL","next"]
+currently_learning: ["React Three Fiber", "Java", "PostgreSQL","next js","Data Structures & Algorithms"]
 
 technical_background:  
   [
