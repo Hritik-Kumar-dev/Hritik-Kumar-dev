@@ -19,12 +19,10 @@
 <a  href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
 </a>
-<a  href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://media1.tenor.com/m/2X0q4J7BTu0AAAAd/goku-dance.gif"/>
-</a>
-   <p><img height="300" src="https://media1.tenor.com/m/2X0q4J7BTu0AAAAd/goku-dance.gif"/><p/> 
 
 ## Hi there 👋
+hello my name  is hritik kumar and i am confulse to add anything in the github profile as i dont khow much about it 
+   <p><img height="300" src="https://c.tenor.com/2X0q4J7BTu0AAAAC/tenor.gif"/><p/> 
 
 <!--
 **Hritik-Kumar-dev/Hritik-Kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
