@@ -10,9 +10,8 @@
 <a href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png"/>
 </a>
-<a href="https://www.instagram.com/hritikkumar/" style="background-color: white; display: inline-block; padding: 5px; border-radius: 8px;">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png"
-       style="filter: invert(1); display: block;" />
+<a href="https://www.instagram.com/hritikkumar/" target="_blank">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="X / Twitter" />
 </a>
 ## Hi there 👋
 
