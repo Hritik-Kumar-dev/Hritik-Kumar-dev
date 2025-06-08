@@ -19,7 +19,7 @@
 <a  href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
 </a>
-![gokuWarmup](https://github.com/user-attachments/assets/0124a4c8-0ce9-4e83-bc2e-b2da8153d083)
+
 
 ![gokuWarmup](https://github.com/user-attachments/assets/3b5b656e-dd99-4e48-8cf8-210f54bdf205)
 
