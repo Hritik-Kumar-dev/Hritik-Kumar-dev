@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=35&section=header&text=Let's%20Connect%20and%20have%20a%20chat;/&animation=fade&fontSize=25)
 
 <div>
-  <a href="https://www.instagram.com/hritikkumar/">
+  <a &color="white" href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
 </a>
 <a href="https://www.instagram.com/hritikkumar/">
