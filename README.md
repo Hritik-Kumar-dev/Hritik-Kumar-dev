@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>
 </a>
-<a href="https://www.instagram.com/hritikkumar/">
+<a padding="2px" href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQIqzv3klUwYdw6gGu46ZGaLUndElkWqDwA&s"/>
 </a>
 
