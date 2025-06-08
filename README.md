@@ -7,8 +7,11 @@
 <a href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>
 </a>
-<a padding="2px" href="https://www.instagram.com/hritikkumar/">
+<a  href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQIqzv3klUwYdw6gGu46ZGaLUndElkWqDwA&s"/>
+</a>
+<a  href="https://www.instagram.com/hritikkumar/">
+  <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png"/>
 </a>
 
 
