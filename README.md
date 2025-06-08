@@ -24,10 +24,48 @@
 ![goku-warmup22](https://github.com/user-attachments/assets/77c5745a-2cda-42f2-9c14-699919c42049)
 
 
+```yaml
+🧑‍💻 A Little Bit About Me and My Interests
 
+name: Hritik Kumar  
+located_in: Azamgarh, Uttar Pradesh, India  
+current_role: B.Tech Student @ REC Azamgarh (Information Technology)  
+future_goal: Full Stack Web Developer 👨‍💻  
 
+education:  
+  [
+    "B.Tech in Information Technology - REC Azamgarh",
+    "Self-Taught Web Developer & Designer",
+  ]
 
-hello my name  is hritik kumar and i am confulse to add anything in the github profile as i dont khow much about it 
+fields_of_interest:  
+  [
+    "Frontend Development",
+    "Web Animations",
+    "3D Web (React Three Fiber)",
+    "UI/UX",
+    "GSAP",
+    "JavaScript, React & Next.js",
+    "Learning Data Structures & Algorithms",
+  ]
+
+currently_learning: ["React Three Fiber", "GSAP", "Tailwind CSS", "Java", "PostgreSQL","next"]
+
+technical_background:  
+  [
+    "Frontend Projects using React, Tailwind, and JavaScript ",
+    "tried 3d websites integrated with React Three Fiber",
+    "DOM Manipulation, API Integration, and Web Effects using GSAP",
+    "Using AI tools to enhance web and visual content",
+  ]
+
+goals_for_2025:  
+ ["Become job-ready", "Master React & Next.js", "Contribute to open source"]
+
+hobbies: ["Singing 🎤", "Gaming 🎮", "painting 🎨", "Marvel fan 🦾 (Iron Man FTW)"]
+
+```
+
   
 
 <!--
