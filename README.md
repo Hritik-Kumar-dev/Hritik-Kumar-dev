@@ -20,7 +20,7 @@
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
 </a>
 
-  <img height="80" src="https://media1.tenor.com/m/2X0q4J7BTu0AAAAd/goku-dance.gif"/>
+  <img height="80" src="https://media1.tenor.com/m/2X0q4J7BTu0AAAAd/goku-dance.gif"/> 
 ## Hi there 👋
 
 <!--
