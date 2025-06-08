@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,30,0,2,3,18,26,4,20&height=110&section=header&text=Hey%20Everyone!&animation=fade&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=35&section=header&text=Let's%20Connect%20and%20have%20a%20chat;/&animation=fade&fontSize=25)
 
-<a href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
+<a href="https://www.instagram.com/hritikkumar/" style="background-color: white; display: inline-block; padding: 5px; border-radius: 8px;">
+  <img height="50" style="background-color: white;" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
 </a>
-<a href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>
+<a href="https://www.instagram.com/hritikkumar/" style="background-color: white; display: inline-block; padding: 5px; border-radius: 8px;">
+  <img height="50" style="background-color: white;" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>
 </a>
-<a href="https://www.instagram.com/hritikkumar/" style="background-color: white;>
-  <img height="50"  src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png"/>
+<a href="https://www.instagram.com/hritikkumar/" style="background-color: white; display: inline-block; padding: 5px; border-radius: 8px;">
+  <img height="50" style="background-color: white;" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png"/>
 </a>
 
 ## Hi there 👋
