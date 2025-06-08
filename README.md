@@ -13,6 +13,9 @@
 <a  href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png"/>
 </a>
+<a  href="https://www.instagram.com/hritikkumar/">
+  <img height="50" src="https://cdn-icons-png.freepik.com/512/3135/3135715.png?uid=R198168497&ga=GA1.1.1313129091.1738601600"/>
+</a>
 
 
 
