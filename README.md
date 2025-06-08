@@ -21,10 +21,12 @@
 </a>
 
 
-![gokuWarmup](https://github.com/user-attachments/assets/3b5b656e-dd99-4e48-8cf8-210f54bdf205)
+![goku-warmup22](https://github.com/user-attachments/assets/77c5745a-2cda-42f2-9c14-699919c42049)
 
 
-## Hi there 👋
+
+
+
 hello my name  is hritik kumar and i am confulse to add anything in the github profile as i dont khow much about it 
   
 
