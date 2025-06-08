@@ -8,7 +8,7 @@
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>
 </a>
 <a href="https://www.instagram.com/hritikkumar/">
-  <img height="50"color="white" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-512.png"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png"/>
 </a>
 
 ## Hi there 👋
