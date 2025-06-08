@@ -5,7 +5,7 @@
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
 </a>
 <a href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/social-media-2668/32/Social_social_linkedin_linked_in-1024.png"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in.png"/>
 </a>
 <a href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
