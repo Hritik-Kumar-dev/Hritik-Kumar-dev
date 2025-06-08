@@ -13,6 +13,10 @@
 <a href="https://www.instagram.com/hritikkumar/" target="_blank">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="X / Twitter" />
 </a>
+<a href="https://www.instagram.com/hritikkumar/" target="_blank">
+  <img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X (Twitter)" />
+</a>
+
 ## Hi there 👋
 
 <!--
