@@ -2,22 +2,22 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=35&section=header&text=Let's%20Connect%20and%20have%20a%20chat;/&animation=fade&fontSize=25)
 
   <a href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
+ &nbsp;&nbsp;&nbsp;&nbsp; <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </a> 
 <a href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a  href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQIqzv3klUwYdw6gGu46ZGaLUndElkWqDwA&s"/>
+  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYQIqzv3klUwYdw6gGu46ZGaLUndElkWqDwA&s"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a  href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png"/>
+  <img height="50" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-512.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a  href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn-icons-png.freepik.com/512/3135/3135715.png?uid=R198182497&ga=GA1.1.1313129091.1738601600"/>
+  <img height="50" src="https://cdn-icons-png.freepik.com/512/3135/3135715.png?uid=R198182497&ga=GA1.1.1313129091.1738601600"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 <a  href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </a>
 
 
@@ -69,29 +69,29 @@ hobbies: ["Singing 🎤", "Gaming 🎮", "painting 🎨", "Marvel fan 🦾 (Iron
 
 <h2>  &nbsp;💻 Languages and Development Skills:</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="82" height="82"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="express" width="82" height="82"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/gsap.svg" alt="gsap"width="82" height="82"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="express" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/gsap.svg" alt="gsap"width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2>  &nbsp;🗄️ Databases & Tools:</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongo"width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgre" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="82" height="82"/>
-<img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/github-512.png" alt="github" width="82" height="82"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="82" height="82"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongo"width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgre" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/github-512.png" alt="github" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="82" height="82"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
   
