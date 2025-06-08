@@ -19,7 +19,8 @@
 <a  href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
 </a>
-![Uploading gokuWarmup.gif…]()
+
+![gokuWarmup](https://github.com/user-attachments/assets/3b5b656e-dd99-4e48-8cf8-210f54bdf205)
 
 
 ## Hi there 👋
