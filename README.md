@@ -16,6 +16,9 @@
 <a  href="https://www.instagram.com/hritikkumar/">
   <img height="50" src="https://cdn-icons-png.freepik.com/512/3135/3135715.png?uid=R198168497&ga=GA1.1.1313129091.1738601600"/>
 </a>
+<a  href="https://www.instagram.com/hritikkumar/">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/>
+</a>
 
 
 
