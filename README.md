@@ -8,7 +8,7 @@
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>
 </a>
 <a href="https://www.instagram.com/hritikkumar/">
-  <img height="50" src="https://www.vectorlogo.zone/logos/x/x-ar21.svg"/>
+  <img height="50" src="https://img.icons8.com/?size=512&id=phOKFKYpe00C&format=png"/>
 </a>
 
 
