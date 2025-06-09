@@ -102,7 +102,8 @@ hobbies: ["Singing 🎤", "Gaming 🎮", "painting 🎨", "Marvel fan 🦾 (Iron
 
   [![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hritik-Kumar-dev&show_icons=true&theme=radical&bg_color=135,000000,1a001a,3a003a,7a00ff,5e2eff,00c3ff,007a99,002e40,0f2027,2c5364
 )](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-Kumar-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hritik-Kumar-dev&show_icons=true&theme=radical&bg_color=135,000000,1a001a,3a003a,7a00ff,5e2eff,00c3ff,007a99,002e40,0f2027,2c5364
+)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hritik-Kumar-dev/Hritik-Kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
