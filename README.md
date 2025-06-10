@@ -27,42 +27,18 @@
 
 ```yaml
 
-name: Hritik Kumar  
-located_in: Azamgarh, Uttar Pradesh, India  
-current_role: B.Tech Student @ REC Azamgarh (Information Technology)  
-future_goal: Full Stack Web Developer 👨‍💻  
 
-education:  
-  [
-    "B.Tech in Information Technology - REC Azamgarh",
-    "Self-Taught Web Developer & Designer",
-  ]
+const aboutMe = {
+  name: "Hritik Kumar",
+  location: "Azamgarh, India",
+  role: "B.Tech IT Student @ REC Azamgarh",
+  goal: "Future Full Stack Web Developer 👨‍💻",
+  skills: ["React", "Tailwind", "GSAP", "R3F", "JavaScript", "Next.js"],
+  learning: ["React Three Fiber", "Java", "PostgreSQL", "DSA"],
+  experience: ["Frontend Projects", "3D Web", "Web Effects", "API Integration"],
+  interests: ["UI/UX", "Web Animation","technologies"]
+};
 
-fields_of_interest:  
-  [
-    "Frontend Development",
-    "Web Animations",
-    "3D Web (React Three Fiber)",
-    "UI/UX",
-    "GSAP",
-    "JavaScript, React & Next.js",
-    "Learning Data Structures & Algorithms",
-  ]
-
-currently_learning: ["React Three Fiber", "Java", "PostgreSQL","next js","Data Structures & Algorithms"]
-
-technical_background:  
-  [
-    "Frontend Projects using React, Tailwind, and JavaScript ",
-    "tried 3d websites integrated with React Three Fiber",
-    "DOM Manipulation, API Integration, and Web Effects using GSAP",
-    "Using AI tools to enhance web and visual content",
-  ]
-
-goals_for_2025:  
- ["Become job-ready", "Master React & Next.js", "Contribute to open source"]
-
-hobbies: ["Singing 🎤", "Gaming 🎮", "painting 🎨", "Marvel fan 🦾 (Iron Man FTW)"]
 
 ```
 
