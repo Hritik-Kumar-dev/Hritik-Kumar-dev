@@ -29,14 +29,14 @@
 
 
 const aboutMe = {
-  name: "Hritik Kumar",
-  location: "Azamgarh, India",
-  role: "B.Tech IT Student @ REC Azamgarh",
-  goal: "Future Full Stack Web Developer 👨‍💻",
-  skills: ["React", "Tailwind", "GSAP", "html","css", "JavaScript"],
-  learning: ["next js", "Java", "PostgreSQL", "DSA"],
-  experience: ["Frontend Projects", "3D Web", "Web Effects", "API Integration"],
-  interests: ["UI/UX", "Web Animation","technologies"]
+     name: "Hritik Kumar",
+     location: "Azamgarh, India",
+     role: "B.Tech IT Student @ REC Azamgarh",
+     goal: "Future Full Stack Web Developer 👨‍💻",
+     skills: ["React", "Tailwind", "GSAP", "html","css", "JavaScript"],
+     learning: ["next js", "Java", "PostgreSQL", "DSA"],
+     experience: ["Frontend Projects", "3D Web", "Web Effects", "API Integration"],
+     interests: ["UI/UX", "Web Animation","technologies"]
 };
 
 
