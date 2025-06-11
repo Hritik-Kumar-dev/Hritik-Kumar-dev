@@ -4,7 +4,7 @@
  <a  href="https://www.instagram.com/hritikkumar/"target="_blank">
  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; <img  height="50" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; 
 </a>   &nbsp;&nbsp;&nbsp;&nbsp; 
-<a  href="https://www.instagram.com/hritikkumar/"target="_blank">
+<a  href="https://www.instagram.com/hritikkumar/"target="_blank"> 
   <img   height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-15-512.png"/>  &nbsp;&nbsp;&nbsp;&nbsp; 
 </a> &nbsp;&nbsp;&nbsp;&nbsp; 
 <a   href="https://www.instagram.com/hritikkumar/"target="_blank">
